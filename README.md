@@ -1,1 +1,1 @@
-# paper-project
+# CP-2
